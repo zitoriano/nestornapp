@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="node_modules/nestorbot/|node_modules/nestorbot/node_modules/scoped-http-client/src/|**/node_modules/*|node_modules/nestorbot/node_modules/promise/domains/|node_modules/nestorbot/node_modules/promise/src/|node_modules/nestorbot/node_modules/fuse.js/src/|node_modules/nestorbot/node_modules/log/examples/|node_modules/nestorbot/node_modules/promise/|node_modules/nestorbot/node_modules/scoped-http-client/test/|node_modules/nestorbot/src/|node_modules/nestorbot/node_modules/promise/node_modules/asap/|node_modules/nestorbot/node_modules/fuse.js/test/|node_modules/nestorbot/node_modules/log/lib/|node_modules/nestorbot/node_modules/xregexp/src/addons/|**/bower_components/*|node_modules/nestorbot/node_modules/promise/lib/|node_modules/nestorbot/test/|node_modules/nestorbot/node_modules/promise/setimmediate/|node_modules/nestorbot/node_modules/log/|**/*.min.js|node_modules/nestorbot/node_modules/xregexp/src/" kind="src" path=""/>
+	<classpathentry excluding="node_modules/xregexp/src/|node_modules/xregexp/src/addons/|node_modules/promise/|**/node_modules/*|node_modules/scoped-http-client/src/|node_modules/promise/domains/|node_modules/promise/src/|node_modules/fuse.js/src/|node_modules/log/examples/|src/|node_modules/scoped-http-client/test/|node_modules/log/|node_modules/fuse.js/test/|**/bower_components/*|node_modules/log/lib/|test/|node_modules/promise/lib/|node_modules/promise/setimmediate/|**/*.min.js|node_modules/promise/node_modules/asap/" kind="src" path="node_modules/nestorbot"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/fuse.js/src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/fuse.js/test"/>
+	<classpathentry excluding="examples/|**/bower_components/*|**/node_modules/*|lib/|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/log"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/log/examples"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/log/lib"/>
+	<classpathentry excluding="**/bower_components/*|node_modules/asap/|**/node_modules/*|lib/|**/*.min.js|domains/|src/|setimmediate/" kind="src" path="node_modules/nestorbot/node_modules/promise"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/promise/domains"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/promise/lib"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/promise/node_modules/asap"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/promise/setimmediate"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/promise/src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/scoped-http-client/src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/scoped-http-client/test"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|addons/|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/xregexp/src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/node_modules/xregexp/src/addons"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="node_modules/nestorbot/test"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
